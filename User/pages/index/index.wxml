@@ -1,0 +1,11 @@
+<view class="nav">
+  <text class="welcome">个人主页</text>
+  <image src="/images/avatar.jpg" mode="aspectFill" bindtap="changeImage"></image>
+</view>
+<view class="content">
+  <view>昵称：Shmily</view>
+  <view>星座：摩羯座</view>
+  <view>兴趣：吃饭、睡觉、打豆豆</view>
+  <view>QQ：2207878922</view>
+  <view>电话：18366037326</view>
+</view>
